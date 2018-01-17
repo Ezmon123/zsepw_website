@@ -8,8 +8,11 @@
 	<div id="global_width">
 	<?php include('includes/logonav.php');?>
 	<?php include('includes/slider.php');?>
-	  <div class="bg-dark content">
+	  <div class="bg-dark content contentwithoutcarousel">
 		<div class="container-fluid">
+		<div class="container-fluid m-2 p-3 text-center">
+		<h4>Strona powstała w ramach pracy dyplomowej inżynierskiej na kierunku Energetyka wydziału Mechanicznego Energetyki i Lotnictwa Politechniki Warszawskiej w Zakładzie Racjonalnego Użytkowania Energii Instytutu Techniki Cieplnej</h4>
+		</div>
 				<div class="row">
 					<div class="col-xl-9">
 							<div class="container-fluid biggerfont">
