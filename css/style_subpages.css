@@ -1,0 +1,8 @@
+@media (max-width: 720px) {
+    .container-fluid, .footer, .navbar .constantwidth {
+        width: 720px !important;
+    }
+}
+.smallfont{
+	font-size:14px;
+}
